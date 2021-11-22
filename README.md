@@ -29,17 +29,24 @@
   - 加群欢迎
   - 随机复读
   - 拍一拍摸头
-  - B站视频解析
+  - B站视频解析  
 
 ## 小鱼妹
 ### 简介
-### 功能
+### 功能  
 
 
 ## 鱼妹2号
 ### 简介
 一个基于MiraiGO的QQ群推送机器人，支持b站直播/动态，斗鱼直播，YTB直播/预约直播，虎牙直播。  
-使用https://github.com/Sora233/DDBOT 搭建
+使用[DDBOT](https://github.com/Sora233/DDBOT)搭建
 ### 功能
-https://github.com/Sora233/DDBOT/blob/master/EXAMPLE.md
+[DDBOT详细示例](https://github.com/Sora233/DDBOT/blob/master/EXAMPLE.md)  
+
+## 使用到的项目
+[mirai](https://github.com/mamoe/mirai)  
+[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)  
+[YiriMirai](https://github.com/YiriMiraiProject/YiriMirai)  
+[nonebot2](https://github.com/nonebot/nonebot2)  
+[DDBOT](https://github.com/Sora233/DDBOT)  
 
