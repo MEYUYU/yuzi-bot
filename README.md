@@ -14,6 +14,7 @@
 
 ## 鱼子酱
 ### 简介
+
 ### 功能
 ## 小鱼妹
 ### 简介
@@ -28,4 +29,4 @@
 [YiriMirai](https://github.com/YiriMiraiProject/YiriMirai)  
 [nonebot2](https://github.com/nonebot/nonebot2)  
 [DDBOT](https://github.com/Sora233/DDBOT)  
-
+[BilibiliDynamic MiraiPlugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)
