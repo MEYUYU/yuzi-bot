@@ -1,4 +1,4 @@
-<div align="center"> <img src="/logo.jpg"> </div>
+<div align="center"> <img src="http://q1.qlogo.cn/g?b=qq&nk=251744845&s=640"> </div>
 
 -----
 
