@@ -9,7 +9,7 @@
 |鱼子酱|聊天占卜表情包,b站推送...|
 |小鱼妹|转发群聊到b站,bot头头...|
 |小古山|pixiv推送收藏,新闻推送...|
-### 要体验所有功能请加QQ群912254740<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZtFzj3a8Wps8LrQD2n8XnmenGxH3ok6o&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="🌧鱼群大爆炸" title="🌧鱼群大爆炸"></a>
+### 要体验所有功能请加QQ群912254740<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZtFzj3a8Wps8LrQD2n8XnmenGxH3ok6o&jump_from=webapi"><img border="0" src="group.png" alt="🌧鱼群大爆炸" title="🌧鱼群大爆炸"></a>
 
 ## 使用到的项目
 [mirai](https://github.com/mamoe/mirai)  
