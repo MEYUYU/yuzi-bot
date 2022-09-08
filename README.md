@@ -4,24 +4,12 @@
 
 # 鱼子酱project
 ### 鱼子酱project是么鱼搭建的QQbot合集,目前包含的成员有:
-|名称|介绍|是否公开|
-|----|----|----|
-|鱼子酱|初号机器人...|审核加群|
-|小鱼妹|试验新功能...|不公开|
-|小古山|B站直播/动态推送|审核加群|
-
-### 要体验所有功能请加QQ群458344473
-
-## 鱼子酱
-### 简介
-
-### 功能
-## 小鱼妹
-### 简介
-### 功能  
-## 小古山
-### 简介
-### 功能
+|名称|介绍|
+|----|----|
+|鱼子酱|聊天占卜推送表情包...|
+|小鱼妹|转发群聊刀b站,bot头头...|
+|小古山|pixiv推送新闻推送...|
+### 要体验所有功能请加QQ群912254740<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZtFzj3a8Wps8LrQD2n8XnmenGxH3ok6o&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="🌧鱼群大爆炸" title="🌧鱼群大爆炸"></a>
 
 ## 使用到的项目
 [mirai](https://github.com/mamoe/mirai)  
