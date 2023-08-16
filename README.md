@@ -1,20 +1,31 @@
-<div align="center"> <img src="http://q1.qlogo.cn/g?b=qq&nk=251744845&s=640"> </div>
+# 鱼子酱部署指南(windows系统):
 
------
+本项目需要使用[mirai](https://github.com/mamoe/mirai)和[mirai-api-http](https://github.com/project-mirai/mirai-api-http),如果你不知道mirai是什么,请停止部署
 
-# 鱼子酱project
-### 鱼子酱project是么鱼搭建的QQbot合集,目前包含的小可爱有:
-|名称|介绍|
-|----|----|
-|鱼子酱|聊天占卜表情包,b站推送...|
-|小鱼妹|转发群聊到b站,bot头头...|
-|小古山|pixiv推送收藏,新闻推送...|
-### 要体验所有功能请加QQ群912254740[🌧鱼群大爆炸](https://qm.qq.com/cgi-bin/qm/qr?k=ZtFzj3a8Wps8LrQD2n8XnmenGxH3ok6o&jump_from=webapi) 
+1. 成功运行mirai并且安装好mirai-api-http插件
 
-## 使用到的项目
-[mirai](https://github.com/mamoe/mirai)  
-[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)  
-[YiriMirai](https://github.com/YiriMiraiProject/YiriMirai)  
-[nonebot2](https://github.com/nonebot/nonebot2)  
-[DDBOT](https://github.com/Sora233/DDBOT)  
-[BilibiliDynamic MiraiPlugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)
+2. 修改mirai所在文件夹的\config\net.mamoe.mirai-api-http\setting.yml为以下内容并保存(verifyKey和port可自行修改)
+
+    ```
+    adapters:
+    - ws
+    debug: false
+    enableVerify: true
+    verifyKey: QQWWEERRTTYY
+    singleMode: false
+    cacheSize: 4096
+    adapterSettings:
+    ws:
+        host: localhost
+        port: 8081
+        reservedSyncId: -1
+    ```
+3. 安装python环境(请安装python3.8.3或之后的版本)
+
+4. 安装[YiriMirai](https://github.com/YiriMiraiProject/YiriMirai)库
+
+        从 PyPI 安装：pip install yiri-mirai
+5. 使用文本编辑器打开yiri文件夹的main.py,修改bot_qq和admin,保存文件
+
+6. 在yiri文件夹打开命令窗口,键入python main.py然后enter.如果不出意外,会出现很多No module named 'xxx',这是因为python缺少这些库,请自行百度解决.(才不是我懒得写requirements.txt)
+
