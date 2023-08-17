@@ -101,13 +101,6 @@ async def full_plugin(event: GroupMessage):
         elif '举牌' == ask[0:2]:
             text = ask[2:58].strip()
             answer = await meme.jupai(text)
-        
-        elif ask[0:4] in ['歌单搜索', '搜索歌单', '歌单查找', '查找歌单']:
-            music = ask[4:].strip()
-            answer = await plugin.music_list(music)
-
-        elif '鱼子酱' in ask and '点歌' in ask:
-            answer = await plugin.random_music()
 
         elif '鱼子酱' in ask and '好不好' in ask:
             answer = await plugin.haobuhao(user)
