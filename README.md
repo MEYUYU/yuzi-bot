@@ -23,3 +23,4 @@
 ./statics/qaall.json [(AnimeThesaurus)](https://github.com/Kyomotoi/AnimeThesaurus) [(@NEKO002)](https://mirai.mamoe.net/user/neko002)  
 ./statics/tarot (哔哩哔哩幻星集)  
 ./statics/story.txt (伊索寓言)  
+鱼子酱头像 [(タク道)](https://www.pixiv.net/artworks/93851586)  
