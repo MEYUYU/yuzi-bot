@@ -4,18 +4,16 @@
 
 ## 废话
 
-
 ## 感谢
-    ddbot
-    mirai
-    go-cqhttp
-    nonebot
-    yiri
-    哔哩哔哩api
-    dynamic
-    pixivpy
-    腾讯
-    虚研社
+[mamoe/mirai](https://github.com/mamoe/mirai)  
+[YiriMiraiProject/YiriMirai](https://github.com/YiriMiraiProject/YiriMirai)  
+[Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)  
+[Sora233/DDBOT](https://github.com/Sora233/DDBOT)  
+[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)  
+[nonebot/nonebot2](https://github.com/nonebot/nonebot2)  
+[Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api)  
+[Mikubill/pixivpy-async](https://github.com/Mikubill/pixivpy-async)  
+[虚研社](http://www.vdproject.com/)  
 
 ## 素材来源
 ./statics/dona [(多娜多娜一起来干坏事吧)](https://www.alicesoft.com/dohnadohna/)  
